@@ -1,0 +1,9 @@
+numpy >= 1.13.0
+torch
+torchvision
+pandas
+matplotlib
+pytest
+pytest-timeout
+folium
+flake8
